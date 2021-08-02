@@ -1,13 +1,16 @@
 # Clash-Usage
 #### Clash 下载
 
-**MacOS**
+**适用于MacOS**
+
 ClashX 和 ClashX Pro
 
-**Windows**
+**适用于Windows**
+
 Clash for Windows
 
-**Android**
+**适用于Android**
+
 Clash for Android
 
 <a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash"><img width="100px" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
