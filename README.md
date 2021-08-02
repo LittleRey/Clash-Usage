@@ -8,6 +8,17 @@
 
 [Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程) | [网易云教程](./README.md#网易云教程)
 
+## Win10 UWP应用无网解决办法
+
+1.打开Clash，点击启动助手
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/9.png" width="35%">
+2.点击Exempt All,这个即是勾选所有UWP应用的意思，然后点击Save Changes，关闭窗口
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/10.png" width="35%">
+
+
+
 ### 📦 对应版本
 | 📦 系统 | 🔧 适用软件
 |  :--:  | ---- |
