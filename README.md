@@ -6,7 +6,7 @@
 
 ## 使用教程
 
-[Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程)
+[Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程) | [网易云教程](./README.md#网易云教程)
 
 ### 📦 对应版本
 | 📦 系统 | 🔧 适用软件
