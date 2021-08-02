@@ -53,4 +53,5 @@
 8.返回启动clash，点击代理选择自己所要用的节点
 
 <img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/8.png" width="35%">
+
 ## Windows教程
