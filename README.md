@@ -1,23 +1,17 @@
 # Clash-Usage
-#### Clash 下载
+#### 根据机型下载对应版本的Clash
 
-**适用于MacOS**
-
-ClashX 和 ClashX Pro
-
-**适用于Windows**
-
-Clash for Windows
-
-**适用于Android**
-
-Clash for Android
-
-<a href="https://play.google.com/store/apps/details?id=com.github.kr328.clash"><img width="100px" alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
+### 📦 对应版本
+| 📦 系统 | 🔧 适用软件
+|  :--:  | ---- |
+| MacOS | ClashX |
+| MacOS | ClashX Pro |
+| Windows | Clash for Windows |
+| Android | Clash for Android |
 
 
 ### 📥 下载链接
-| 📦 项目 | 📃 文件 | 🚀 链接下载 | 🔧 适用系统
+| 📦 项目 | 📃 文件 | 🚀 链接下载 | 🔧 系统架构
 |  :--:  |  :--:  |     :--:     | ---- |
 | GeoIP2 数据库 | Country.mmdb | [点我下载](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | Surge, Shadowrocket,<br>QuantumultX, Clash<br>等较新的代理工具|
 | Clash for Windows X64 | Clash.for.Windows-X64-win.7z | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Windows/Clash.for.Windows-X64-win.7z) | Windows X64 | 
