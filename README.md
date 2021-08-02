@@ -6,7 +6,7 @@
 
 ## 使用教程
 
-[Android教程](./README.md#-Android) | [Windows教程](./README.md#-Windows)
+[Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程)
 
 ### 📦 对应版本
 | 📦 系统 | 🔧 适用软件
@@ -28,7 +28,7 @@
 | Clash for Android Arm/Arm64 | app-universal-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-universal-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm/Arm64 | 
  
 
-## Android
+## Android教程
 
 
-## Windows
+## Windows教程
