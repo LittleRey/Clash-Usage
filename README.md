@@ -6,17 +6,7 @@
 
 ## 使用教程
 
-[Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程) | [网易云教程](./README.md#网易云教程)
-
-## Win10 UWP应用无网解决办法
-
-1.打开Clash，点击启动助手
-
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/9.png" width="35%">
-2.点击Exempt All,这个即是勾选所有UWP应用的意思，然后点击Save Changes，关闭窗口
-
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/10.png" width="35%">
-
+[Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程) | [网易云教程](./README.md#网易云教程) | [Win10 UWP应用无网解决办法](./README.md#Win10 UWP应用无网解决办法)
 
 
 ### 📦 对应版本
@@ -109,3 +99,12 @@
 1.打开Clash,找到网易云代理组，选择带有延迟的节点，然后打开网易云直接听
 
 <img src="https://github.com/LittleRey/Clash-Usage/raw/main/Netease/4.png" width="35%">
+
+## Win10 UWP应用无网解决办法
+
+1.打开Clash，点击启动助手
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/9.png" width="75%">
+2.点击Exempt All,这个即是勾选所有UWP应用的意思，然后点击Save Changes，关闭窗口
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/10.png" width="75%">
