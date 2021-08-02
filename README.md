@@ -29,7 +29,7 @@
  
 
 ## Android教程
-<img src="https://raw.githubusercontent.com/nining377/dolby_beta/master/image/img_01.png" width="50%">
-<img src="https://raw.githubusercontent.com/nining377/dolby_beta/master/image/img_01.png" width="50%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/1.png" width="50%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/1.png" width="25%">
 
 ## Windows教程
