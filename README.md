@@ -58,25 +58,25 @@
 
 1.粘贴链接，点击下载
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/1.png" width="35%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/1.png" width="35%">
 2.点击圆圈所示位置
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/2.png" width="35%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/2.png" width="35%">
 3.将更新间隔默认的0修改为1
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/3.png" width="35%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/3.png" width="35%">
 4.勾选下载的配置
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/4.png" width="35%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/4.png" width="35%">
 5.主页勾选系统代理
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/5.png" width="35%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/5.png" width="35%">
 6.选择提供，并点击全部更新
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/6.png" width="35%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/6.png" width="35%">
 7.选择自己所需要的节点，自行使用
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/7.png" width="35%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/7.png" width="35%">
 8.部分节点预览
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/8.png" width="50%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/8.png" width="50%">
