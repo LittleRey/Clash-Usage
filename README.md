@@ -6,7 +6,7 @@
 
 ## 使用教程
 
-[Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程) | [网易云教程](./README.md#网易云教程) | [Win10 UWP应用无网解决办法](./README.md#Win10 UWP应用无网解决办法)
+[Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程) | [网易云教程](./README.md#网易云教程) | [Win10UWP应用无网解决办法](./README.md#win10-uwp应用无网解决办法)
 
 
 ### 📦 对应版本
