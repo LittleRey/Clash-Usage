@@ -58,7 +58,7 @@
 
 1.粘贴链接，点击下载
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/1.png" width="35%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/1.png" width="75%">
 2.点击圆圈所示位置
 
 <img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/2.png" width="35%">
@@ -79,4 +79,4 @@
 <img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/7.png" width="35%">
 8.部分节点预览
 
-<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/8.png" width="50%">
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Usage/8.png" width="100%">
