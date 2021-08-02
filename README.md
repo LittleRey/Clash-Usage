@@ -27,3 +27,8 @@
 | Clash for Android Arm | app-armeabi-v7a-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-armeabi-v7a-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm | 
 | Clash for Android Arm/Arm64 | app-universal-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-universal-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm/Arm64 | 
  
+
+## Android
+
+
+## Windows
