@@ -1,6 +1,13 @@
 # Clash-Usage
 #### 根据机型下载对应版本的Clash
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) | ![MacOS](https://img.shields.io/badge/-MacOS-666666?style=for-the-badge&logo=macos&logoColor=ffffff)
+
+
+## 使用教程
+
+[Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程)
+
 ### 📦 对应版本
 | 📦 系统 | 🔧 适用软件
 |  :--:  | ---- |
@@ -13,10 +20,38 @@
 ### 📥 下载链接
 | 📦 项目 | 📃 文件 | 🚀 链接下载 | 🔧 系统架构
 |  :--:  |  :--:  |     :--:     | ---- |
-| GeoIP2 CN 数据库 | Country.mmdb | [点我下载](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | / |
-| Clash for Windows X64 | Clash.for.Windows-X64-win.7z | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Windows/Clash.for.Windows-X64-win.7z) | Windows X64 | 
-| Clash for Windows X86 | Clash.for.Windows-X86-win.7z | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Windows/Clash.for.Windows-X86-win.7z) | Windows X86 | 
-| Clash for Android Arm64 | app-arm64-v8a-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-arm64-v8a-release.apk) | Android Arm64 | 
-| Clash for Android Arm | app-armeabi-v7a-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-armeabi-v7a-release.apk) | Android Arm | 
-| Clash for Android Arm/Arm64 | app-universal-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-universal-release.apk) | Android Arm/Arm64 | 
+| GeoIP2 CN 数据库 | Country.mmdb | [点我下载](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | Clash/Surge |
+| Clash for Windows X64 | Clash.for.Windows-X64-win.7z | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Windows/Clash.for.Windows-X64-win.7z) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-square&logo=Windows&logoColor=ffffff) X64 | 
+| Clash for Windows X86 | Clash.for.Windows-X86-win.7z | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Windows/Clash.for.Windows-X86-win.7z) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-square&logo=Windows&logoColor=ffffff) X86 | 
+| Clash for Android Arm64 | app-arm64-v8a-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-arm64-v8a-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm64 | 
+| Clash for Android Arm | app-armeabi-v7a-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-armeabi-v7a-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm | 
+| Clash for Android Arm/Arm64 | app-universal-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-universal-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm64 <br>![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm | 
  
+
+## Android教程
+1.点击配置
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/1.png" width="35%">
+2.点击右上角的➕号
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/2.png" width="35%">
+3.点击从URL导入
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/3.png" width="35%">
+4.名称随便填，URL粘贴自己的链接，自动更新设置为60，最后点击右上角的保存
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/4.png" width="35%">
+5.等待十几秒导入进程
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/5.png" width="35%">
+6.勾选以及导入的配置，点击外部资源
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/6.png" width="35%">
+7.点击右上角的更新，更新订阅以及规则文件
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/7.png" width="35%">
+8.返回启动clash，点击代理选择自己所要用的节点
+
+<img src="https://github.com/LittleRey/Clash-Usage/raw/main/Android/Usage/8.png" width="35%">
+
+## Windows教程
