@@ -1,6 +1,9 @@
 # Clash-Usage
 #### 根据机型下载对应版本的Clash
 
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222)[Android教程](./README.md#-Android) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff)[Windows教程](./README.md#-Windows)
+#-下载链接
+
 ### 📦 对应版本
 | 📦 系统 | 🔧 适用软件
 |  :--:  | ---- |
