@@ -25,7 +25,7 @@
 | Clash for Windows X86 | Clash.for.Windows-X86-win.7z | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Windows/Clash.for.Windows-X86-win.7z) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-square&logo=Windows&logoColor=ffffff) X86 | 
 | Clash for Android Arm64 | app-arm64-v8a-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-arm64-v8a-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm64 | 
 | Clash for Android Arm | app-armeabi-v7a-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-armeabi-v7a-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm | 
-| Clash for Android Arm/Arm64 | app-universal-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-universal-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm/Arm64 | 
+| Clash for Android Arm/Arm64 | app-universal-release.apk | [点我下载](https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/blob/main/Android/app-universal-release.apk) | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm64 <br>![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm | 
  
 
 ## Android教程
