@@ -16,7 +16,8 @@
 * [Kr328/ClashForAndroid#411 (comment)](https://github.com/Kr328/ClashForAndroid/issues/411#issuecomment-640780469)
 
 ### 📥 下载链接
-| 📦 项目 | 📃 文件 | 🚀 链接下载 | 🔧 适用范围
+| 📦 项目 | 📃 文件 | 🚀 链接下载 | 🔧 适用系统
 |  :--:  |  :--:  |     :--:     | ---- |
-| IP-CIDR 列表 | CN-ip-cidr.txt | [点我起飞](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/CN-ip-cidr.txt) | 防火墙、较老的代理工具等 | 
-| GeoIP2 数据库 | Country.mmdb | [点我起飞](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | Surge, Shadowrocket,<br>QuantumultX, Clash<br>等较新的代理工具|
+| GeoIP2 数据库 | Country.mmdb | [点我下载](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | Surge, Shadowrocket,<br>QuantumultX, Clash<br>等较新的代理工具|
+| Clash for Windows | CN-ip-cidr.txt | [点我下载](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/CN-ip-cidr.txt) | Windows X64 | 
+| Clash for Windows | CN-ip-cidr.txt | [点我下载](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/CN-ip-cidr.txt) | Windows X32 | 
