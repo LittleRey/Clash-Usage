@@ -1,4 +1,5 @@
-# Clash-Usage
+# Clash-Usage 
+### 用于富强（扶墙）
 #### 根据机型下载对应版本的Clash
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) | ![MacOS](https://img.shields.io/badge/-MacOS-666666?style=for-the-badge&logo=macos&logoColor=ffffff)
