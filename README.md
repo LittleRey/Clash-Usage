@@ -5,6 +5,7 @@
 
 <h4 align="center">Usage For Clash</h4>
 
+<p align="center">
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) | ![MacOS](https://img.shields.io/badge/-MacOS-666666?style=for-the-badge&logo=macos&logoColor=ffffff)
 
 ##### 支持V2、SS、SSR、Trojan
@@ -19,7 +20,7 @@
 ## 网易云使用教程
  [Windows网易云](https://github.com/LittleRey/Clash-Usage/blob/main/Netease/Usage.md#Windows网易云) | [Android网易云](https://github.com/LittleRey/Clash-Usage/blob/main/Netease/Usage.md#Android网易云) 
 
-
+<p align="center">
 ### 📦 对应版本
 | 📦 系统 | 🔧 适用软件
 |  :--:  | ---- |
@@ -28,7 +29,7 @@
 | Windows | Clash for Windows |
 | Android | Clash for Android |
 
-
+<p align="center">
 ### 📥 下载链接
 | 📦 项目 | 📃 文件 | 🚀 链接下载 | 🚀 蓝奏云下载 | 🔧 系统 | 🔧 架构
 |  :--:  |  :--:  |     :--:     |     :---:     | :-----: | :-----: |
