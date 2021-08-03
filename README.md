@@ -8,6 +8,9 @@
 
 [Android教程](./README.md#android教程) | [Windows教程](./README.md#windows教程) | [网易云教程](./README.md#网易云教程) | [Win10UWP应用无网解决办法](./README.md#win10-uwp应用无网解决办法)
 
+## 网易云使用教程
+ [Windows网易云](./README.md#Windows网易云) | [Android网易云](./README.md#Android网易云) 
+
 
 ### 📦 对应版本
 | 📦 系统 | 🔧 适用软件
@@ -84,7 +87,7 @@
 
 ## 网易云教程
 
-##### Windows网易云
+### Windows网易云
 1.打开Clash,找到网易云代理组，选择带有绿色数字的节点
 
 <img src="https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/Netease/1.png" width="75%">
@@ -95,7 +98,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/Netease/3.png" width="75%">
 
-##### Android网易云
+### Android网易云
 1.打开Clash,找到网易云代理组，选择带有延迟的节点，然后打开网易云直接听
 
 <img src="https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/Netease/4.png" width="35%">
