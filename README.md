@@ -26,7 +26,7 @@
 | Clash for Windows X86 | Clash.for.Windows-X86-win.7z | [点我下载](https://raw.staticdn.net/LittleRey/Clash-Usage/main/Windows/Clash.for.Windows-X86-win.7z) | [点我下载](https://stormsword.lanzoui.com/b055iq2ah)密码:2pjh | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-square&logo=Windows&logoColor=ffffff) | X86 | 
 | Clash for Android Arm64 | app-arm64-v8a-release.apk | [点我下载](https://raw.staticdn.net/LittleRey/Clash-Usage/main/Android/app-arm64-v8a-release.apk) | [点我下载](https://stormsword.lanzoui.com/b055iq2ah)密码:2pjh | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) | Arm64 | 
 | Clash for Android Arm | app-armeabi-v7a-release.apk | [点我下载](https://raw.staticdn.net/LittleRey/Clash-Usage/main/Android/app-armeabi-v7a-release.apk) | [点我下载](https://stormsword.lanzoui.com/b055iq2ah)密码:2pjh | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) | Arm | 
-| Clash for Android Arm/Arm64 | app-universal-release.apk | [点我下载](https://raw.staticdn.net/LittleRey/Clash-Usage/main/Android/app-universal-release.apk) | [点我下载](https://stormsword.lanzoui.com/b055iq2ah)密码:2pjh | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) | Arm64 <br> / <br> Arm | 
+| Clash for Android Arm/Arm64 | app-universal-release.apk | [点我下载](https://raw.staticdn.net/LittleRey/Clash-Usage/main/Android/app-universal-release.apk) | [点我下载](https://stormsword.lanzoui.com/b055iq2ah)密码:2pjh | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) | Arm64 / Arm | 
  
 
 ## Android教程
