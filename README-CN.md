@@ -14,9 +14,9 @@
   
   
 ## Features
-- Support VMess, Shadowsocks, Snell, Trojan, SOCKS5 or HTTP protocol
-- Supports DoH/DoT
-- Support GEOIP
+- 支持 VMess, Shadowsocks, Snell, Trojan, SOCKS5 和 HTTP 协议
+- 支持 DoH/DoT
+- 支持 GEOIP
 
 
 
