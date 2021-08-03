@@ -24,10 +24,10 @@
 ## 网易云使用教程
  [Windows网易云](https://github.com/LittleRey/Clash-Usage/blob/main/Netease/Usage.md#Windows网易云) | [Android网易云](https://github.com/LittleRey/Clash-Usage/blob/main/Netease/Usage.md#Android网易云) 
 
-<p align="center">
 
 ### 对应版本
-  
+<p align="center">
+
 | 📦 系统 | 🔧 适用软件
 |  :--:  | ---- |
 | MacOS | ClashX |
@@ -35,10 +35,10 @@
 | Windows | Clash for Windows |
 | Android | Clash for Android |
 
-<p align="center">
 
 ### 下载链接
-  
+<p align="center">
+
 | 📦 项目 | 📃 文件 | 🚀 链接下载 | 🚀 蓝奏云下载 | 🔧 系统 | 🔧 架构
 |  :--:  |  :--:  |     :--:     |     :---:     | :-----: | :-----: |
 | GeoIP2 CN 数据库 | Country.mmdb | [点我下载](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | | Clash/Surge |
