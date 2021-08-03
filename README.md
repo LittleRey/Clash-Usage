@@ -33,6 +33,8 @@
  
 
 ## Android教程
+
+```
 1.点击配置
 
 <img src="https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/Android/Usage/1.png" width="35%">
@@ -57,6 +59,7 @@
 8.返回启动clash，点击代理选择自己所要用的节点
 
 <img src="https://cdn.jsdelivr.net/gh/LittleRey/Clash-Usage/Android/Usage/8.png" width="35%">
+```
 
 ## Windows教程
 
