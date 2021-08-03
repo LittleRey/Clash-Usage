@@ -17,7 +17,6 @@
 | Windows | Clash for Windows |
 | Android | Clash for Android |
 
-外链:https://stormsword.lanzoui.com/b055iq2ah 密码:2pjh
 
 ### 📥 下载链接
 | 📦 项目 | 📃 文件 | 🚀 链接下载 | 🚀 蓝奏云下载 | 🔧 系统架构
