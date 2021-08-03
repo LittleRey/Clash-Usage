@@ -24,7 +24,7 @@
 
 ### Software List
 
-
+---
 
 | 📦 OS | 🔧 Software
 |  :--:  | ---- |
@@ -36,7 +36,7 @@
 
 ### Dwonload
 
-
+---
 
 | 📦 Project | 📃 FileName | 🚀 Dwonload | 🚀 LanZouCloud-Link | 🔧 OS | 🔧 Architecture
 |  :--:  |  :--:  |     :--:     |     :---:     | :-----: | :-----: |
