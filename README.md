@@ -14,20 +14,17 @@
 - Supports DoH/DoT
 - Support GEOIP
 
-#### 根据机型下载对应版本的Clash
-
-
 ## Usage
 
-[Android-Usage](https://github.com/LittleRey/Clash-Usage/blob/main/Android/Usage.md) | [Windows-Usage](https://github.com/LittleRey/Clash-Usage/blob/main/Windows/Usage.md) | [NeteaseMusic-Usage](https://github.com/LittleRey/Clash-Usage/blob/main/Netease/Usage.md) | [Win10UWP应用无网解决办法](https://github.com/LittleRey/Clash-Usage/blob/main/Windows/Win10.md)
+[Android-Usage](https://github.com/LittleRey/Clash-Usage/blob/main/Android/Usage.md) | [Windows-Usage](https://github.com/LittleRey/Clash-Usage/blob/main/Windows/Usage.md) | [NeteaseMusic-Usage](https://github.com/LittleRey/Clash-Usage/blob/main/Netease/Usage.md) | [Win10-Uwp-Software-Link-Internet-Usage](https://github.com/LittleRey/Clash-Usage/blob/main/Windows/Win10.md)
 
 ## NeteaseMusic-Usage
  [Win-NeteaseMusic](https://github.com/LittleRey/Clash-Usage/blob/main/Netease/Usage.md#Windows网易云) | [Android-NeteaseMusic](https://github.com/LittleRey/Clash-Usage/blob/main/Netease/Usage.md#Android网易云) 
 
 
-### 对应版本
+### Software List
 
-<p align="center">
+
 
 | 📦 OS | 🔧 Software
 |  :--:  | ---- |
@@ -39,11 +36,11 @@
 
 ### Dwonload
 
-<p align="center">
 
-| 📦 Project | 📃 FileName | 🚀 Dwonload | 🚀 LanZouCloud-Link | 🔧 OS | 🔧 架构
+
+| 📦 Project | 📃 FileName | 🚀 Dwonload | 🚀 LanZouCloud-Link | 🔧 OS | 🔧 Architecture
 |  :--:  |  :--:  |     :--:     |     :---:     | :-----: | :-----: |
-| GeoIP2 CN 数据库 | Country.mmdb | [Dwonload](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | | Clash/Surge |
+| GeoIP2 CN database | Country.mmdb | [Dwonload](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | | Clash/Surge |
 | Clash for Windows X64 | Clash.for.Windows-X64-win.7z | [Dwonload](https://raw.staticdn.net/LittleRey/Clash-Usage/main/Windows/Clash.for.Windows-X64-win.7z) | [Dwonload-Link](https://stormsword.lanzoui.com/b055iq2ah)Password:2pjh | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-square&logo=Windows&logoColor=ffffff) | X64 | 
 | Clash for Windows X86 | Clash.for.Windows-X86-win.7z | [Dwonload](https://raw.staticdn.net/LittleRey/Clash-Usage/main/Windows/Clash.for.Windows-X86-win.7z) | [Dwonload-Link](https://stormsword.lanzoui.com/b055iq2ah)Password:2pjh | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-square&logo=Windows&logoColor=ffffff) | X86 | 
 | Clash for Android Arm64 | app-arm64-v8a-release.apk | [Dwonload](https://raw.staticdn.net/LittleRey/Clash-Usage/main/Android/app-arm64-v8a-release.apk) | [Dwonload-Link](https://stormsword.lanzoui.com/b055iq2ah)Password:2pjh | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) | Arm64 | 
