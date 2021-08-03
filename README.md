@@ -1,4 +1,5 @@
 # Clash-Usage 
+##### 支持V2、SS、SSR、Trojan
 ### 用于富强（扶墙）
 #### 根据机型下载对应版本的Clash
 
