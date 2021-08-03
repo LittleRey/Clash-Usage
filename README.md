@@ -4,15 +4,13 @@
 </h1>
 
 <h4 align="center">Usage For Clash</h4>
+[English](https://github.com/LittleRey/Clash-Usage/blob/main/README.md) | [简体中文](https://github.com/LittleRey/Clash-Usage/blob/main/README-CN.md)
 
 <p align="center">
 
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=Android&logoColor=222222) | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=ffffff) | ![MacOS](https://img.shields.io/badge/-MacOS-666666?style=for-the-badge&logo=macos&logoColor=ffffff)
 
 
-<p align="center">
-  
-[English](https://github.com/LittleRey/Clash-Usage/blob/main/README.md) | [简体中文](https://github.com/LittleRey/Clash-Usage/blob/main/README-CN.md)
 
 ## Features
 - Support VMess, Shadowsocks, Snell, Trojan, SOCKS5 or HTTP protocol
