@@ -22,7 +22,7 @@
 ### 📥 下载链接
 | 📦 项目 | 📃 文件 | 🚀 链接下载 | 🚀 蓝奏云下载 | 🔧 系统架构
 |  :--:  |  :--:  |     :--:     |     :--:     | ---- |
-| GeoIP2 CN 数据库 | Country.mmdb | [点我下载](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | Clash/Surge |
+| GeoIP2 CN 数据库 | Country.mmdb | [点我下载](https://cdn.jsdelivr.net/gh/Hackl0us/GeoIP2-CN@release/Country.mmdb) | | Clash/Surge |
 | Clash for Windows X64 | Clash.for.Windows-X64-win.7z | [点我下载](https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Clash.for.Windows-X64-win.7z) | [点我下载](https://stormsword.lanzoui.com/b055iq2ah)密码:2pjh | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-square&logo=Windows&logoColor=ffffff) X64 | 
 | Clash for Windows X86 | Clash.for.Windows-X86-win.7z | [点我下载](https://github.com/LittleRey/Clash-Usage/raw/main/Windows/Clash.for.Windows-X86-win.7z) | [点我下载](https://stormsword.lanzoui.com/b055iq2ah)密码:2pjh | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-square&logo=Windows&logoColor=ffffff) X86 | 
 | Clash for Android Arm64 | app-arm64-v8a-release.apk | [点我下载](https://github.com/LittleRey/Clash-Usage/raw/main/Android/app-arm64-v8a-release.apk) | [点我下载](https://stormsword.lanzoui.com/b055iq2ah)密码:2pjh | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-square&logo=Android&logoColor=222222) Arm64 | 
