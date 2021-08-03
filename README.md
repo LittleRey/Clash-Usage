@@ -85,10 +85,10 @@
 ## 网易云教程
 
 ##### Windows网易云
-1.打开网易云点击设置，点击工具，勾选IE代理，点击确定重启网易云
+1.打开Clash,找到网易云代理组，选择带有绿色数字的节点
 
 <img src="https://github.com/LittleRey/Clash-Usage/raw/main/Netease/1.png" width="75%">
-2.打开Clash,找到网易云代理组，选择带有绿色数字的节点
+2.打开网易云点击设置，点击工具，勾选IE代理，点击确定重启网易云
 
 <img src="https://github.com/LittleRey/Clash-Usage/raw/main/Netease/2.png" width="75%">
 3.打开网易云随便搜个周杰伦的歌听
